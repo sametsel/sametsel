@@ -12,6 +12,8 @@ Fırat Üniversitesi yazılım öğrencisiyim. Masaüstü, web , Python , Yapay 
 | [**FitnessAI**](https://github.com/sametsel/FitnessAI) | AI destekli fitness & beslenme (mobil + web) | TypeScript, React Native, Node.js, FastAPI, MongoDB |
 | [**dark-house**](https://github.com/sametsel/dark-house) | Tarayıcıda çalışan 2.5D korku RPG | Python, Pygame, pygbag |
 | [**HisseSenediAnalizi**](https://github.com/sametsel/HisseSenediAnalizi) | BIST hisse teknik analizi (EMA, Bollinger) | Python, PyQt5, MySQL |
+| [**pcb-defect-detection**](https://github.com/sametsel/pcb-defect-detection) | PCB elektronik kart arıza tespiti (YOLOv8) | Python, Ultralytics, Colab |
+| [**video-ai-musicgen**](https://github.com/sametsel/video-ai-musicgen) | Video sahnesinden AI müzik üretimi | MusicGen, BLIP, MoviePy |
 
 ### Ekip / katkı
 
@@ -27,7 +29,7 @@ Diller     : C# · Python · TypeScript · JavaScript · SQL
 Backend    : Node.js · FastAPI · ADO.NET · Express
 Frontend   : WinForms · React Native · HTML/CSS · Bootstrap
 Veri       : SQL Server · MongoDB · MySQL
-Diğer      : Azure Speech · Unity (VR) · OOP · SOLID · Git
+Diğer      : Azure Speech · YOLOv8 · MusicGen · Unity (VR) · OOP · SOLID · Git
 ```
 
 ---
