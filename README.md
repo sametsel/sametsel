@@ -1,6 +1,6 @@
 ### Merhaba, ben Samet Sel 👋
 
-Fırat Üniversitesi yazılım öğrencisiyim. Masaüstü, web/mobil ve Python projeleri geliştiriyorum. Staj ve iş fırsatlarına açığım.
+Fırat Üniversitesi yazılım öğrencisiyim. Masaüstü, web , Python , Yapay Zeka model eğitme  projeleri geliştiriyorum.İş fırsatlarına açığım.
 
 ---
 
@@ -35,6 +35,7 @@ Diğer      : Azure Speech · Unity (VR) · OOP · SOLID · Git
 ### İletişim
 
 - GitHub: [sametsel](https://github.com/sametsel)
+- Linkedin : (https://www.linkedin.com/in/samet-sel-8a3198258/)
 - Konum: Elazığ, Türkiye
 
 ⭐ İlginizi çeken bir proje olursa star atabilir veya issue açabilirsiniz.
