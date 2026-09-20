@@ -1,6 +1,6 @@
 ### Merhaba, ben Samet Sel 👋
 
-Fırat Üniversitesi yazılım öğrencisiyim. **Derin öğrenme, görüntü işleme ve veri odaklı yapay zeka** üzerine yoğunlaşıyorum; modelleri eğitip gerçek problemlere uyguluyorum. Staj ve iş fırsatlarına açığım.
+Fırat Üniversitesi yazılım öğrencisiyim. **Derin öğrenme ve veri odaklı yapay zeka** üzerine yoğunlaşıyorum; modelleri eğitip gerçek problemlere uyguluyorum.iş fırsatlarına açığım.
 
 ---
 
